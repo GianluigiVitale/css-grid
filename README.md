@@ -1,1 +1,3 @@
-css-grid
+Simple GRID exercises
+
+HTML, CSS
